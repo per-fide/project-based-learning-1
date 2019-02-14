@@ -10,7 +10,7 @@ Inspired by https://github.com/tuvtran/project-based-learning, I am listing proj
 
 ### C:
 - [x] [Build Your Own Lisp](http://www.buildyourownlisp.com/)
-- [ ] Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G)
+- [ ] [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G)
 - [ ] [How to Program an NES Game](https://nesdoug.com/)
 - [ ] [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 - [ ] [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
